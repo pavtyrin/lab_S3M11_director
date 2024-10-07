@@ -1,5 +1,9 @@
 HEAD
+HEAD
 Содержимое 3.txt
+
+Изменение в 3.txt
+test4
 
 Изменение в 3.txt
 test4
