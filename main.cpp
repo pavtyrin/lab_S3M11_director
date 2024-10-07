@@ -6,3 +6,4 @@ std::cout << "Hello world!"; return 0;
 }
 
 Новая строка в main.cpp
+Изменение в main.cpp (test6)
